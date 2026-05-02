@@ -1,0 +1,56 @@
+# Dependabot template for bundu-labs repositories.
+#
+# Copy to `.github/dependabot.yml` in a consumer repo and adapt:
+#   - Add ecosystems (npm, pip, cargo, etc.) as needed.
+#   - Adjust the schedule if a repo wants a different cadence.
+#   - Update reviewers / labels.
+#
+# Org policy:
+#   - Run **once a week**, every Monday at 06:00 Africa/Harare.
+#   - Produce **one PR per ecosystem** with all available updates.
+#   - `build:` Conventional Commits prefix so pr-title-lint accepts
+#     Dependabot's PRs without manual edits.
+
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+      day: monday
+      time: '06:00'
+      timezone: Africa/Harare
+    open-pull-requests-limit: 1
+    reviewers:
+      - bryanfawcett
+    labels:
+      - dependencies
+      - github-actions
+    commit-message:
+      prefix: build
+      include: scope
+    groups:
+      all:
+        patterns: ['*']
+        update-types: [major, minor, patch]
+
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: weekly
+      day: monday
+      time: '06:00'
+      timezone: Africa/Harare
+    open-pull-requests-limit: 1
+    reviewers:
+      - bryanfawcett
+    labels:
+      - dependencies
+      - npm
+    commit-message:
+      prefix: build
+      include: scope
+    groups:
+      all:
+        patterns: ['*']
+        update-types: [major, minor, patch]

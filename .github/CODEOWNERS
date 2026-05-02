@@ -1,0 +1,18 @@
+# CODEOWNERS for bundu-labs/.github
+#
+# Default reviewer for everything in this org-defaults repo. Update
+# this list as the team grows; required-review settings on
+# individual rulesets read from this file when "require code owner
+# review" is enabled.
+
+* @bryanfawcett
+
+/SECURITY.md             @bryanfawcett
+/CODE_OF_CONDUCT.md      @bryanfawcett
+/CONTRIBUTING.md         @bryanfawcett
+/AGENTS.md               @bryanfawcett
+/GOVERNANCE.md           @bryanfawcett
+
+/.github/                @bryanfawcett
+/github-rulesets/        @bryanfawcett
+/profile/                @bryanfawcett

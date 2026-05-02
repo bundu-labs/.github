@@ -1,0 +1,12 @@
+node_modules/
+.git/
+
+LICENSE
+.github/CODEOWNERS
+
+*.yml
+*.yaml
+
+*-lock.json
+package-lock.json
+pnpm-lock.yaml

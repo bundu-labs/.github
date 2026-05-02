@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node
+node_modules/
+
+# OS
+Thumbs.db
+ehthumbs.db
+
+# AI agent working notes
+CLAUDE.md
+GEMINI.md
+.claude/
+.cursor/
