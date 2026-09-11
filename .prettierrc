@@ -8,7 +8,9 @@
   "overrides": [
     {
       "files": ["*.md", "*.mdx"],
-      "options": { "embeddedLanguageFormatting": "off" }
+      "options": {
+        "embeddedLanguageFormatting": "off"
+      }
     }
   ]
 }

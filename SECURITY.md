@@ -20,8 +20,8 @@ Send a report to **<security@nyuchi.com>**.
 
 ### 2. GitHub Private Security Advisory
 
-On the affected repository: **Security** tab → *Report a
-vulnerability*. Only that repo's security maintainers will see the
+On the affected repository: **Security** tab → _Report a
+vulnerability_. Only that repo's security maintainers will see the
 report.
 
 ## What to include

@@ -14,17 +14,17 @@ appropriate.
 
 ## What's in here
 
-| Path | Purpose |
-| ---- | ------- |
-| `README.md` | This file. |
-| `profile/README.md` | Landing page rendered at <https://github.com/bundu-labs>. |
-| `SECURITY.md`, `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`, `SUPPORT.md`, `AGENTS.md`, `GOVERNANCE.md` | Org-wide community-health defaults. |
-| `.editorconfig`, `.prettierrc`, `.prettierignore`, `.markdownlint.jsonc`, `.yamllint.yaml` | Lint / formatter starting configs. Each consumer repo should ship its own copy. |
-| `.github/PULL_REQUEST_TEMPLATE.md`, `.github/ISSUE_TEMPLATE/*` | Default PR + issue forms. |
-| `.github/CODEOWNERS` | Default reviewers for changes here. |
-| `.github/dependabot.example.yml` | Starting template for consumer repos. |
-| `.github/workflows/*.yml` | CI for *this* repo (lint, PR-title, stale). |
-| `github-rulesets/*.json` | Branch-protection rulesets for downstream repos to apply via `gh api`. |
+| Path                                                                                               | Purpose                                                                         |
+| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| `README.md`                                                                                        | This file.                                                                      |
+| `profile/README.md`                                                                                | Landing page rendered at <https://github.com/bundu-labs>.                       |
+| `SECURITY.md`, `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`, `SUPPORT.md`, `AGENTS.md`, `GOVERNANCE.md` | Org-wide community-health defaults.                                             |
+| `.editorconfig`, `.prettierrc`, `.prettierignore`, `.markdownlint.jsonc`, `.yamllint.yaml`         | Lint / formatter starting configs. Each consumer repo should ship its own copy. |
+| `.github/PULL_REQUEST_TEMPLATE.md`, `.github/ISSUE_TEMPLATE/*`                                     | Default PR + issue forms.                                                       |
+| `.github/CODEOWNERS`                                                                               | Default reviewers for changes here.                                             |
+| `.github/dependabot.example.yml`                                                                   | Starting template for consumer repos.                                           |
+| `.github/workflows/*.yml`                                                                          | CI for _this_ repo (lint, PR-title, stale).                                     |
+| `github-rulesets/*.json`                                                                           | Branch-protection rulesets for downstream repos to apply via `gh api`.          |
 
 ## Reusable CI workflows
 

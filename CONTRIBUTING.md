@@ -40,19 +40,19 @@ Every commit and every PR title on every repo in the org must follow
 
 ### Allowed types
 
-| Type | Use for |
-| ---- | ------- |
-| `feat` | A user-visible new feature. |
-| `fix` | A user-visible bug fix. |
-| `perf` | A change that improves performance. |
-| `refactor` | Code change, neither feature nor fix. |
-| `docs` | Documentation only. |
-| `test` | Adding or correcting tests. |
-| `build` | Build system, packaging, dependencies. |
-| `ci` | CI configuration, workflows, GitHub Actions. |
-| `chore` | Maintenance not covered above. |
-| `revert` | Reverting a previous commit. |
-| `style` | Formatting only; no logic change. |
+| Type       | Use for                                      |
+| ---------- | -------------------------------------------- |
+| `feat`     | A user-visible new feature.                  |
+| `fix`      | A user-visible bug fix.                      |
+| `perf`     | A change that improves performance.          |
+| `refactor` | Code change, neither feature nor fix.        |
+| `docs`     | Documentation only.                          |
+| `test`     | Adding or correcting tests.                  |
+| `build`    | Build system, packaging, dependencies.       |
+| `ci`       | CI configuration, workflows, GitHub Actions. |
+| `chore`    | Maintenance not covered above.               |
+| `revert`   | Reverting a previous commit.                 |
+| `style`    | Formatting only; no logic change.            |
 
 PR title lint runs on every PR via the org-wide
 [`reusable-pr-title-lint.yml`](https://github.com/nyuchi/.github/blob/main/.github/workflows/reusable-pr-title-lint.yml)
@@ -74,25 +74,25 @@ it asserts the commit is yours to contribute under the project licence.
 
 `<type>/<short-kebab-description>`. Allowed prefixes:
 
-| Prefix | Use |
-| ------ | --- |
-| `feat/` | new functionality |
-| `fix/` | bug fix |
-| `perf/` | performance |
-| `refactor/` | internal cleanup |
-| `docs/` | documentation only |
-| `test/` | test changes |
-| `build/` | build/dependency |
-| `ci/` | CI config |
-| `chore/` | maintenance |
+| Prefix      | Use                 |
+| ----------- | ------------------- |
+| `feat/`     | new functionality   |
+| `fix/`      | bug fix             |
+| `perf/`     | performance         |
+| `refactor/` | internal cleanup    |
+| `docs/`     | documentation only  |
+| `test/`     | test changes        |
+| `build/`    | build/dependency    |
+| `ci/`       | CI config           |
+| `chore/`    | maintenance         |
 | `redesign/` | design or IA change |
 
 For AI agents:
 
-| Prefix | Agent |
-| ------ | ----- |
-| `claude/` | Claude Code |
-| `cursor/` | Cursor |
+| Prefix     | Agent                    |
+| ---------- | ------------------------ |
+| `claude/`  | Claude Code              |
+| `cursor/`  | Cursor                   |
 | `copilot/` | GitHub Copilot Workspace |
 
 ## Linting and formatting
