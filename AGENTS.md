@@ -46,10 +46,10 @@ contributions without exception. In particular:
 
 ### Reserved branch-name prefixes for agents
 
-| Prefix | Agent |
-| ------ | ----- |
-| `claude/` | Claude Code (Anthropic) |
-| `cursor/` | Cursor background agent |
+| Prefix     | Agent                                   |
+| ---------- | --------------------------------------- |
+| `claude/`  | Claude Code (Anthropic)                 |
+| `cursor/`  | Cursor background agent                 |
 | `copilot/` | GitHub Copilot Workspace / coding agent |
 
 ## Local docs and design references

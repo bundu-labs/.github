@@ -5,16 +5,16 @@ right channel gets you a faster answer and keeps things discoverable.
 
 ## Quick routing
 
-| I want to… | Go here |
-| ---------- | ------- |
-| Ask a question or share an idea | The repository's **Discussions** tab if enabled, otherwise an issue with the *Question* or *Feature request* template. |
-| Report a bug | The repository's **Issues** tab → *Bug report* template. |
-| Request a feature | The repository's **Issues** tab → *Feature request* template. |
-| Report a security vulnerability | **Do not open a public issue.** See [`SECURITY.md`](./SECURITY.md). |
-| Report a Code of Conduct concern | See [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md). |
-| Contribute code or docs | See [`CONTRIBUTING.md`](./CONTRIBUTING.md). |
-| General enquiry | Email [hi@nyuchi.com](mailto:hi@nyuchi.com). |
-| Customer or product support (Nyuchi products) | Email [support@nyuchi.com](mailto:support@nyuchi.com). |
+| I want to…                                    | Go here                                                                                                                |
+| --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Ask a question or share an idea               | The repository's **Discussions** tab if enabled, otherwise an issue with the _Question_ or _Feature request_ template. |
+| Report a bug                                  | The repository's **Issues** tab → _Bug report_ template.                                                               |
+| Request a feature                             | The repository's **Issues** tab → _Feature request_ template.                                                          |
+| Report a security vulnerability               | **Do not open a public issue.** See [`SECURITY.md`](./SECURITY.md).                                                    |
+| Report a Code of Conduct concern              | See [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md).                                                                      |
+| Contribute code or docs                       | See [`CONTRIBUTING.md`](./CONTRIBUTING.md).                                                                            |
+| General enquiry                               | Email [hi@nyuchi.com](mailto:hi@nyuchi.com).                                                                           |
+| Customer or product support (Nyuchi products) | Email [support@nyuchi.com](mailto:support@nyuchi.com).                                                                 |
 
 ## Before you open an issue
 
