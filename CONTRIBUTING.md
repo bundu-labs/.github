@@ -54,14 +54,16 @@ Every commit and every PR title on every repo in the org must follow
 | `revert`   | Reverting a previous commit.                 |
 | `style`    | Formatting only; no logic change.            |
 
-PR title lint runs on every PR via the org-wide
+PR title lint runs in repositories that call the shared
 [`reusable-pr-title-lint.yml`](https://github.com/nyuchi/.github/blob/main/.github/workflows/reusable-pr-title-lint.yml)
 workflow.
 
 ## Signed commits (required)
 
 Every commit landing on `main` must show **Verified** on GitHub —
-either GPG or SSH signed. Branch-protection enforces this.
+either GPG or SSH signed. This is policy, not a ruleset rule: neither
+the enterprise nor the org ruleset requires signatures, so reviewers
+check it.
 
 ## DCO sign-off (required)
 
@@ -97,19 +99,19 @@ For AI agents:
 
 ## Linting and formatting
 
-Each consumer repo ships its own
-[`.editorconfig`](./.editorconfig),
-[`.prettierrc`](./.prettierrc),
-[`.markdownlint.jsonc`](./.markdownlint.jsonc), and
-[`.yamllint.yaml`](./.yamllint.yaml) — copy them from this repo as a
-starting point. Run the org-wide reusable lint workflow to enforce
-them in CI:
+Lint is required org-wide. The org ruleset runs
+[`.github/workflows/org-lint.yml`](./.github/workflows/org-lint.yml)
+from this repository on every pull request in every `bundu-labs`
+repository, and requires its five checks: `lint / actionlint`,
+`lint / JSON validity`, `lint / prettier`, `lint / markdownlint` and
+`lint / yamllint`.
 
-```yaml
-jobs:
-  lint:
-    uses: nyuchi/.github/.github/workflows/reusable-lint.yml@main
-```
+A repository needs **no `lint.yml` and no lint config files** of its
+own. Where it has a `.prettierrc`, `.prettierignore`,
+`.markdownlint.jsonc` or `.yamllint.yaml` at its root, the shared
+lint uses it; where it does not, the canonical copy in
+[`nyuchi/.github`](https://github.com/nyuchi/.github) applies. Add one
+only when the repository genuinely needs to differ.
 
 ## Code of conduct
 
