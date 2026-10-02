@@ -7,13 +7,14 @@
 [![Org profile](https://img.shields.io/badge/org-bundu--labs-24292e?logo=github&logoColor=white)](https://github.com/bundu-labs)
 [![Doctrine](https://img.shields.io/badge/doctrine-nyuchi%2F.github-blue)](https://github.com/nyuchi/.github)
 
-**Org:** [github.com/bundu-labs](https://github.com/bundu-labs) | **Foundation:** [bundu.family](https://bundu.family) | **Docs:** [docs.bundu.org](https://docs.bundu.org) | **Engineering doctrine:** [`nyuchi/.github`](https://github.com/nyuchi/.github)
+**Org:** [github.com/bundu-labs](https://github.com/bundu-labs) | **Foundation:** [bundu.org](https://www.bundu.org) | **Docs:** [docs.bundu.org](https://docs.bundu.org) | **Engineering doctrine:** [`nyuchi/.github`](https://github.com/nyuchi/.github)
 
 ---
 
 This repository holds the org-wide defaults for the
 [`bundu-labs`](https://github.com/bundu-labs) GitHub organisation — the
-development arm of the [Bundu Foundation](https://bundu.family).
+enterprise of the [Bundu Foundation](https://www.bundu.org) — and the
+canonical [Bundu Order](profile/canonical/BUNDU_ORDER.md).
 
 Every repository under `bundu-labs` inherits the community-health files
 in this repo unless that repository ships its own. The
@@ -25,17 +26,18 @@ appropriate.
 
 ## What's in here
 
-| Path                                                                                               | Purpose                                                                         |
-| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| `README.md`                                                                                        | This file.                                                                      |
-| `profile/README.md`                                                                                | Landing page rendered at <https://github.com/bundu-labs>.                       |
-| `SECURITY.md`, `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`, `SUPPORT.md`, `AGENTS.md`, `GOVERNANCE.md` | Org-wide community-health defaults.                                             |
-| `.editorconfig`, `.prettierrc`, `.prettierignore`, `.markdownlint.jsonc`, `.yamllint.yaml`         | Lint / formatter starting configs. Each consumer repo should ship its own copy. |
-| `.github/PULL_REQUEST_TEMPLATE.md`, `.github/ISSUE_TEMPLATE/*`                                     | Default PR + issue forms.                                                       |
-| `.github/CODEOWNERS`                                                                               | Default reviewers for changes here.                                             |
-| `.github/dependabot.yml`, `.github/dependabot.example.yml`                                         | Dependabot for _this_ repo, plus a starting template for consumer repos.        |
-| `.github/workflows/*.yml`                                                                          | CI for _this_ repo (lint, PR-title, stale).                                     |
-| `github-rulesets/*.json`                                                                           | Branch-protection rulesets for downstream repos to apply via `gh api`.          |
+| Path                                                                                                                   | Purpose                                                                                                         |
+| ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| `README.md`                                                                                                            | This file.                                                                                                      |
+| `profile/README.md`                                                                                                    | Landing page rendered at <https://github.com/bundu-labs>.                                                       |
+| `profile/canonical/BUNDU_ORDER.md`                                                                                     | **The Bundu Order v5.0.0** (October 2026), the Founder's text, unedited. Exempt from Prettier and markdownlint. |
+| `SECURITY.md`, `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`, `SUPPORT.md`, `AGENTS.md`, `GOVERNANCE.md`                     | Org-wide community-health defaults.                                                                             |
+| `.editorconfig`, `.prettierrc`, `.prettierignore`, `.markdownlint.jsonc`, `.markdownlint-cli2.jsonc`, `.yamllint.yaml` | Lint / formatter starting configs. Each consumer repo should ship its own copy.                                 |
+| `.github/PULL_REQUEST_TEMPLATE.md`, `.github/ISSUE_TEMPLATE/*`                                                         | Default PR + issue forms.                                                                                       |
+| `.github/CODEOWNERS`                                                                                                   | Default reviewers for changes here.                                                                             |
+| `.github/dependabot.yml`, `.github/dependabot.example.yml`                                                             | Dependabot for _this_ repo, plus a starting template for consumer repos.                                        |
+| `.github/workflows/*.yml`                                                                                              | CI for _this_ repo (lint, PR-title, stale).                                                                     |
+| `github-rulesets/*.json`                                                                                               | Branch-protection rulesets for downstream repos to apply via `gh api`.                                          |
 
 ## Reusable CI workflows
 
@@ -77,8 +79,8 @@ contribution rules, see
   → references the `NA-01 Constitution`, `NA-02 Open Source`, and
   `NA-03 Engineering Working Agreement` documents.
 
-Bundu Labs is the foundation's dev arm; its standards mirror Nyuchi's
-unless an explicit Bundu-specific exception is documented.
+Bundu Labs follows Nyuchi's engineering standards unless an explicit
+Bundu-specific exception is documented.
 
 ## The README standard
 
@@ -100,8 +102,8 @@ broken:
 
 ## Licence and governance
 
-The [Bundu Foundation](https://bundu.family) (Zimbabwean Company Limited by
-Guarantee) is the governance body for this organisation;
+The [Bundu Foundation](https://www.bundu.org) (a Zimbabwe company limited by
+guarantee; incorporation pending) is the governance body for this organisation;
 [Nyuchi](https://nyuchi.com) is the operator. These are org-wide defaults, not
 a shipped artefact — each consumer repo carries its own `LICENSE`.
 

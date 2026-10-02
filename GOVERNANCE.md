@@ -1,8 +1,25 @@
 # Governance
 
-`bundu-labs` is the development arm of the
-[Bundu Foundation](https://bundu.family). The Foundation's governance
-posture follows the Nyuchi Africa working agreement, published at:
+`bundu-labs` is the enterprise of the
+[Bundu Foundation](https://www.bundu.org), which owns the IP of the
+ecosystem and governs it.
+
+## The canonical documents
+
+| Document                                                                                                        | Owner            | What it is                                                                    |
+| --------------------------------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------------------------------- |
+| [The Bundu Order](profile/canonical/BUNDU_ORDER.md)                                                             | Bundu Foundation | The mathematical architecture of the ecosystem and the Locked Count Register. |
+| [The Nyuchi Architecture](https://github.com/nyuchi/.github/blob/main/profile/canonical/NYUCHI_ARCHITECTURE.md) | Nyuchi Africa    | The canonical technical architecture. Wins over every other document.         |
+| [The Mukoko Manifesto](https://github.com/mukoko-dev/.github/blob/main/profile/canonical/MUKOKO_MANIFESTO.md)   | Mukoko           | The platform philosophy and the Seven Covenants.                              |
+
+All three are version 5.0.0 (October 2026) and are changed only by the
+Founder. The counts in the Bundu Order's Locked Count Register change
+only when he initiates the revision.
+
+## Operating governance
+
+Day-to-day governance follows the Nyuchi Africa working agreement,
+published at:
 
 | Document                                                                                                                             | Contents                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
