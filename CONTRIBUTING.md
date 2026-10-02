@@ -22,8 +22,9 @@ If you are reading this for the first time, also read:
 1. **Fork** the repo (external) or **branch** it (member).
 2. Work on a branch that matches our [branch-naming rules](#branch-naming).
 3. Open a PR with a [Conventional Commits][cc] title, signed commits,
-   and a DCO sign-off. Green CI + at least one approving review and
-   we'll merge it.
+   and a DCO sign-off. Green CI and resolved review threads, and we'll
+   merge it. Required approving reviews are **0** during the
+   solo-developer phase.
 
 ## Commit conventions
 
