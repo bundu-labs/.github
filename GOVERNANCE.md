@@ -36,5 +36,6 @@ secret scanning, etc.) follow
 [`nyuchi/.github → ORG_SETTINGS.md`](https://github.com/nyuchi/.github/blob/main/ORG_SETTINGS.md).
 The
 [`github-rulesets/`](./github-rulesets) directory in this repo holds
-the JSON for `bundu-labs`-applicable rulesets, ready to apply via
-`gh api`.
+the JSON for the `bundu-labs` org ruleset as applied; the
+`enterprise-main-protection` ruleset on the `bundu-labs` enterprise sits
+above it, active in every org.
