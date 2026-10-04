@@ -58,7 +58,7 @@ Out of scope (report to the relevant team):
 
 - Repositories under [`nyuchi`](https://github.com/nyuchi) — see
   [`nyuchi/.github → SECURITY.md`](https://github.com/nyuchi/.github/blob/main/SECURITY.md).
-- Sister-brand surfaces (Mukoko, Shamwari, Nhimbe) operated outside
+- Sister-brand surfaces (Mukoko, Shamwari) operated outside
   this org.
 - Third-party services we integrate with — please report directly.
 

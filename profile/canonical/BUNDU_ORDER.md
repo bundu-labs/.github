@@ -25,6 +25,7 @@
 | 8 | Five gains two Bundu doctrine sets: the **Five Ubuntu Pillars** (spheres of belonging) and the **Five Ubuntu Principles** (practised values). |
 | 9 | Forty is now measured, not planned: 40 interest categories are live in the platform database. |
 | 10 | A Locked Count Register is added so the counts can be checked in one place. |
+| 11 | Mini-app 7, the Gathering, is **Mukoko Events** (owner decision, 4 October 2026); *Nhimbe* is retired as a brand name. The count, the position and the role are unchanged. |
 
 ---
 
@@ -100,7 +101,7 @@ Mukoko contains seventeen mini-apps, each serving a distinct layer of human digi
  4. Bytes          — Creator Video     13. Weather        — Environment
  5. Circles        — Community         14. Wallet         — Economics
  6. Novels         — Publishing        15. Jobs           — Employment
- 7. Nhimbe         — Gathering         16. Health         — Wellness
+ 7. Events         — Gathering         16. Health         — Wellness
  8. BushTrade      — Commerce          17. Mukoko ID      — Identity
  9. Places         — Geography
 ```
@@ -109,7 +110,7 @@ Each operates in three modes simultaneously — **Musha** (home, the foreground 
 
 Seventeen because seventeen is complete. Not sixteen, which would leave a gap. Not eighteen, which would include something that had not earned its place.
 
-**Status does not change the count.** In October 2026 some of the seventeen are live (Nhimbe, Mukoko News, Weather, Places as Mukoko Kweli, Mukoko ID as Mukoko Account), some are building, and some are designed. A designed mini-app still holds its place in the net. The net is complete even while it is still being woven.
+**Status does not change the count.** In October 2026 some of the seventeen are live (Mukoko Events, Mukoko News, Weather, Places as Mukoko Kweli, Mukoko ID as Mukoko Account), some are building, and some are designed. A designed mini-app still holds its place in the net. The net is complete even while it is still being woven.
 
 ---
 
@@ -318,7 +319,7 @@ The vision is a covenant escalation, not a timeline.
 Stage 1 — The Person       (Mukoko Account → the Twin — individual sovereignty)
 Stage 2 — The Conversation (Campfire — relational sovereignty)
 Stage 3 — The Circle       (Circles — community sovereignty)
-Stage 4 — The Gathering    (Nhimbe — physical convergence)
+Stage 4 — The Gathering    (Mukoko Events — physical convergence)
 Stage 5 — The Market       (BushTrade and Wallet — economic sovereignty)
 Stage 6 — The Nation       (Zimbabwe, then the region, then 54 — national sovereignty)
 Stage 7 — The Legacy       (Open source, open data — civilisational gift)
@@ -326,7 +327,7 @@ Stage 7 — The Legacy       (Open source, open data — civilisational gift)
 
 Stage 1 begins with one identity across the hive — live today as Mukoko Account — and is fulfilled when that identity becomes a Twin in the person's own pod.
 
-The escalation is a covenant of scope, not an order of construction. Today the Gathering (Nhimbe) is where the ecosystem first earns its keep, because a gathering is where people already come together. The stages describe how far sovereignty reaches; they do not dictate which door opens first.
+The escalation is a covenant of scope, not an order of construction. Today the Gathering (Mukoko Events) is where the ecosystem first earns its keep, because a gathering is where people already come together. The stages describe how far sovereignty reaches; they do not dictate which door opens first.
 
 Seven because the vision is itself a covenant: to grow from the individual to the civilisational, each stage earning the right to the next.
 
