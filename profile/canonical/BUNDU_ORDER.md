@@ -2,8 +2,8 @@
 
 ### The Mathematical Architecture of the Bundu Ecosystem — Bundu, Nyuchi, Mukoko
 
-**Version:** 5.0.0
-**Date:** October 2026
+**Version:** 5.0.1
+**Date:** November 2026
 **Type:** Ecosystem Mathematical Consciousness
 **Supersedes:** The Mukoko Order v4.0.1
 **Steward:** Bundu Foundation (the pattern language is part of the Mzizi genetic code)
@@ -11,11 +11,15 @@
 
 ---
 
+## v5.0.1 (20 November 2026)
+
+Wording only, in line with the ecosystem's current terms: the Digital Twin is your own AI, and Barstool is described as a former separate brand. No structure, count or pattern changes.
+
 ## v5.0.0 Changelog
 
 | # | Change |
 |---|---|
-| 1 | Scope widened from "Mukoko" to the whole ecosystem. The Three Pillars are now **Bundu, Nyuchi, Mukoko** — the ownership convention — rather than Mukoko, Nyuchi, Sister Brands. Barstool, the last sister brand, is folded into Mukoko Kweli. |
+| 1 | Scope widened from "Mukoko" to the whole ecosystem. The Three Pillars are now **Bundu, Nyuchi, Mukoko** — the ownership convention — rather than Mukoko, Nyuchi and their separate brands. Barstool, the last separate brand, is folded into Mukoko Kweli. |
 | 2 | New governing rule: **the Order counts what is sealed, and names what is open.** A set that is still growing is not given a number. |
 | 3 | The Nyuchi enterprise layer is **no longer counted**. "Seven Covenants of Capability" is withdrawn; the enterprise layer is declared an open set. |
 | 4 | The Digital Twin is recorded as the **goal** of the substrate, not its starting point. Its place in the four is unchanged. |
@@ -84,7 +88,7 @@ The ecosystem stands on three pillars, defined by the ownership convention.
 
 **Nyuchi** operates everything that runs — identity, the API gateway, the databases, the pipelines, the edge, the Console — and builds the enterprise products. Nyuchi is the infrastructure.
 
-**Mukoko** is the consumer surface — the super app and its seventeen mini-apps, and the first tenant of Nyuchi's infrastructure. Barstool, once a sister brand, now lives inside Mukoko Kweli's wider scope.
+**Mukoko** is the consumer surface — the super app and its seventeen mini-apps, and the first tenant of Nyuchi's infrastructure. Barstool, once a separate brand, now lives inside Mukoko Kweli's wider scope.
 
 Three because three is the minimum for structural stability. Owner, operator, surface. A two-pillar ecosystem would let the operator own the commons. A four-pillar ecosystem would introduce a distinction that does not exist. Three is complete.
 
@@ -132,7 +136,7 @@ Everything else derives from, caches from, or syncs between these three. The tec
 
 Beneath the seventeen mini-apps, four components form the ground everything stands on.
 
-**The Digital Twin** — your sovereign AI. Your data, your AI companion, and your identity unified in your pod. Three concentric layers of intelligence: personal, community, platform. **The Twin is the goal of the substrate, not its first stone.** It requires the pod, a graph-native device layer, verified identity, and on-device intelligence. Each of those is being laid first.
+**The Digital Twin** — your own AI. Your data, your AI companion, and your identity unified in your pod. Three concentric layers of intelligence: personal, community, platform. **The Twin is the goal of the substrate, not its first stone.** It requires the pod, a graph-native device layer, verified identity, and on-device intelligence. Each of those is being laid first.
 
 **Mukoko Home** — the ambient surface the Twin expresses itself through. It follows the Twin.
 

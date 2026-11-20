@@ -45,11 +45,11 @@ open-source defaults and these repositories:
 
 Bundu Foundation projects that have their own organisations:
 
-| Organisation                                | Project                                                                                              |
-| ------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [`mzizi-dev`](https://github.com/mzizi-dev) | **Mzizi**, the open frontend architecture and design system ([mzizi.dev](https://mzizi.dev)).        |
-| [`siafuDB`](https://github.com/siafuDB)     | **SiafuDB** and **SiafuDB-Kuzu**, the embedded graph database for device, edge and Web3. Apache 2.0. |
-| [`openNTL`](https://github.com/openNTL)     | **NTL**, the Neural Transfer Layer: signal-based transfer replacing request-response. Apache 2.0.    |
+| Organisation                                | Project                                                                                           |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| [`mzizi-dev`](https://github.com/mzizi-dev) | **Mzizi**, the open frontend architecture and design system ([mzizi.dev](https://mzizi.dev)).     |
+| [`siafuDB`](https://github.com/siafuDB)     | **SiafuDB**, the embedded graph database for device and edge. Apache 2.0.                         |
+| [`openNTL`](https://github.com/openNTL)     | **NTL**, the Neural Transfer Layer: signal-based transfer replacing request-response. Apache 2.0. |
 
 Harare Metro and Bundu Education are designed. Nyuchi Gov Tech is
 governed by the Foundation and operated by Nyuchi.
