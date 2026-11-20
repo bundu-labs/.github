@@ -125,8 +125,10 @@ contributions without exception. In particular:
 
 ## Local docs and design references
 
-Many `bundu-labs` repos consume the **Nyuchi Design System** and
-the engineering doctrine canonical at
+Many `bundu-labs` repos consume **[Mzizi](https://mzizi.dev/)**, the
+design system that replaced the Nyuchi Design System (a Bundu
+Foundation project, built by Nyuchi), and the engineering doctrine
+canonical at
 [`nyuchi/.github`](https://github.com/nyuchi/.github). When working
 in such a repo:
 
