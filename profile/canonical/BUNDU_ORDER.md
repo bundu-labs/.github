@@ -2,7 +2,7 @@
 
 ### The Mathematical Architecture of the Bundu Ecosystem — Bundu, Nyuchi, Mukoko
 
-**Version:** 5.0.1
+**Version:** 5.0.2
 **Date:** November 2026
 **Type:** Ecosystem Mathematical Consciousness
 **Supersedes:** The Mukoko Order v4.0.1
@@ -10,6 +10,10 @@
 **Author:** Bryan Fawcett, Founder & CEO, Nyuchi Africa
 
 ---
+
+## v5.0.2 (20 November 2026)
+
+Owner decision, 20 November 2026: the four tokens are a proposed Mukoko project, not on the roadmap. The token design (Structure 7) is kept as that proposal, and the Bundu Foundation is no longer named as its issuer. The counts in the Locked Count Register are unchanged.
 
 ## v5.0.1 (20 November 2026)
 
@@ -84,7 +88,7 @@ A number in this Order is a seal. Some structures in the ecosystem are deliberat
 
 The ecosystem stands on three pillars, defined by the ownership convention.
 
-**Bundu** owns the IP — the standards, the doctrine, the research, the Seven Minerals, the documentation system — and governs the commons. The Bundu Foundation sits at the top of the stack and is the sole issuer of all four tokens.
+**Bundu** owns the IP — the standards, the doctrine, the research, the Seven Minerals, the documentation system — and governs the commons. The Bundu Foundation sits at the top of the stack.
 
 **Nyuchi** operates everything that runs — identity, the API gateway, the databases, the pipelines, the edge, the Console — and builds the enterprise products. Nyuchi is the infrastructure.
 
@@ -140,7 +144,7 @@ Beneath the seventeen mini-apps, four components form the ground everything stan
 
 **Mukoko Home** — the ambient surface the Twin expresses itself through. It follows the Twin.
 
-**The MUKOKO Token** — the economic protocol, now four tokens (see Structure 7).
+**The MUKOKO Token** — the economic protocol, four tokens: a proposed Mukoko project, not on the roadmap (see Structure 7).
 
 **The Ubuntu Layer** — the community conscience. Contribution scoring, badges, missions, governance. Its doctrine — the Five Pillars and Five Principles — is already live as canonical data.
 
@@ -189,7 +193,7 @@ The technologies inside four layers changed in v5. The covenants did not move by
 
 ### 7 — The Token: Four Tokens, Three Pools
 
-The token layer is four tokens, all issued and governed by the Bundu Foundation.
+The token layer is four tokens: a proposed Mukoko project, not on the roadmap. No issuer is set.
 
 | Token | Role |
 |---|---|
